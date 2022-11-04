@@ -2,9 +2,9 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>af090d44-bcf8-471f-8e5b-af2e020e7217</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>ExcelFormulaBot</ProviderName>
+  <ProviderName>AI Formula Generator Bot for Excel</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="ExcelFormulaBot"/>
+  <DisplayName DefaultValue="AI Formula Generator Bot for Excel"/>
   <Description DefaultValue="Transform your text instructions into Excel formulas in seconds with the help of AI, without leaving your spreadsheet."/>
   <IconUrl DefaultValue="https://excelformulabot.github.io/excelformulabotrepo/assets/logo_32.png"/>
   <HighResolutionIconUrl DefaultValue="https://excelformulabot.github.io/excelformulabotrepo/assets/logo_64.png"/>
@@ -72,13 +72,13 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://excelformulabot.github.io/excelformulabotrepo/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GetStarted.Title" DefaultValue="Get started with ExcelFormulaBot!"/>
-        <bt:String id="CommandsGroup.Label" DefaultValue="ExcelFormulaBot"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Show ExcelFormulaBot"/>
+        <bt:String id="GetStarted.Title" DefaultValue="Get started with AI Formula Generator Bot for Excel"/>
+        <bt:String id="CommandsGroup.Label" DefaultValue="AI Formula Generator Bot for Excel"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Show AI Formula Generator Bot for Excel"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="GetStarted.Description" DefaultValue="Your ExcelformulaBot add-in loaded succesfully. Go to the HOME tab and click the 'Show ExcelFormulaBot' button to get started."/>
-        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Show ExcelFormulaBot"/>
+        <bt:String id="GetStarted.Description" DefaultValue="Your AI Formula Generator Bot for Excel add-in loaded succesfully. Go to the HOME tab and click the 'Show AI Formula Generator Bot for Excel' button to get started."/>
+        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Show AI Formula Generator Bot for Excel"/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
